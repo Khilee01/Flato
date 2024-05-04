@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Flato</string>
+    <string name="title">Discover your ultimate life companion with Flato – your perfect Hommie awaits!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="edit_text_hint_name">Enter Name</string>
+
+    <string-array name="age_array">
+        <item>18-21</item>
+        <item>22-25</item>
+        <item>26-29</item>
+    </string-array>
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="personality_array">
+        <item>Balanced</item>
+        <item>Homebody</item>
+        <item>Social Butterfly</item>
+    </string-array>
+
+    <string-array name="occupation_array">
+        <item>Student</item>
+        <item>Working Professional</item>
+    </string-array>
+
+    <string-array name="tidiness_preference_array">
+        <item>Comfortable with some clutter</item>
+        <item>Flexible with tidiness levels</item>
+        <item>Prefer a very tidy space</item>
+        <item>"I'm" comfortable with some clutter</item>
+        <item>"I'm "flexible with tidiness levels</item>
+    </string-array>
+
+    <string-array name="dietary_preferences_array">
+        <item>Non-vegetarian</item>
+        <item>Vegetarian</item>
+    </string-array>
+
+    <string-array name="looking_for_gender_array">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+    <string-array name="chore_preferences_array">
+        <item>Flexible with either</item>
+        <item>Prefer house help (cost split)</item>
+        <item>Would like to share chores equally</item>
+        <item>Flexible with either</item>
+    </string-array>
+
+    <string-array name="personality_type_array">
+        <item>Ambivert</item>
+        <item>Extrovert</item>
+        <item>Introvert</item>
+    </string-array>
+
+    <string-array name="lifestyle_array">
+        <item>Balanced</item>
+        <item>Homebody</item>
+    </string-array>
+
+    <string-array name="do_you_smoke_array">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="do_you_consume_alcohol_array">
+        <item>No</item>
+        <item>Occasionally</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="locality_array">
+        <item>Aundh</item>
+        <item>Baner</item>
+        <item>Bavdhan</item>
+        <item>Camp</item>
+        <item>Deccan</item>
+        <item>Deccan Gymkhana</item>
+        <item>Hadapsar</item>
+        <item>Hinjewadi</item>
+        <item>Kalyani Nagar</item>
+        <item>Katraj</item>
+        <item>Kharadi</item>
+        <item>Kondhwa</item>
+        <item>Koregaon Park</item>
+        <item>Kothrud</item>
+        <item>Magarpatta</item>
+        <item>Model Colony</item>
+        <item>Pashan</item>
+        <item>PimpleSaudagar</item>
+        <item>Pimpri</item>
+        <item>Shivaji Nagar</item>
+        <item>Shivajinagar</item>
+        <item>Shivane</item>
+        <item>Viman Nagar</item>
+        <item>Wakad</item>
+        <item>Wanowrie</item>
+        <item>Warje</item>
+    </string-array>
+
+</resources>
